@@ -39,7 +39,8 @@ export default Counter;
 Issues:
 1.Inside for loop changed var to let, Reason :var is function-scoped hence so all setTimeout callbacks log the same value (3).Instead we should use let (block-scoped)
 which creates i each time.
-2.Used Use state in react to update count and hence removed - document.getElementById('display').innerText=count;
+
+2.Used useState in react to update count and hence removed - document.getElementById('display').innerText=count;
 
 Method 2:
 ```JavaScript
@@ -68,6 +69,7 @@ const Increment=Counter();
 
 Issues:-
 1.Fixed for loop var -> let
+
 2.Fixed error if the element does not exist. (in line : document.getElementById('display').innerText = count;)
 
 
@@ -100,6 +102,9 @@ app.listen(3000, () => console.log("Server running on port 3000"));
 ```
 Issues:-
 1.Added await since fetchUserFromDB is async . Reason:Async functions return a Promise, so await is required to get the resolved value.
+
 2.Typo: UserDate -> UserData 
+
 3.Addes async in line - "app.get('/user/:id', async (req, res) => " Reason:to allow use of await.
+
 4.Added return in line - "return res.status(404).send("User not found");" else: Execution continues and tries to send another response causing error
