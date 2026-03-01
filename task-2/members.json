@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Arjun Sharma",
+    "usn": "1RV21CS001",
+    "domain": "Web Development",
+    "clubName": "IEEE Computer Society",
+    "position": "Chairperson",
+    "phone": "9876543710"
+  },
+  {
+    "name": "Rohan Nair",
+    "usn": "1RV21EC045",
+    "domain": "Embedded Systems",
+    "clubName": "CIS WIE",
+    "position": "Vice Chairperson",
+    "phone": "9123456780"
+  },
+  {
+    "name": "sarah",
+    "usn": "1RV21CS201",
+    "domain": "Web Development",
+    "clubName": "IEEE Computer Society",
+    "position": "Chairperson",
+    "phone": "9876543210"
+  }
+]
