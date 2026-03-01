@@ -37,7 +37,7 @@ export default function TeamSection() {
             IEEE RITB Student Branch
           </p>
           <h2 className="text-white text-3xl sm:text-4xl font-extrabold tracking-tight">
-            Meet Our Team
+            Meet Our Core Team
           </h2>
         </div>
 
