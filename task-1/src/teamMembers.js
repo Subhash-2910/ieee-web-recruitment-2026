@@ -5,7 +5,7 @@ const members = [
     abbr: "Web",
     chapter: "Web Resources",
     position: "President",
-    icon: "💻",
+    icon: "🙎‍♂️",
     accent: "#6366f1",
     description:
       "Led TechVision 2025, a 3-day national hackathon with 500+ participants across India.",
@@ -16,7 +16,7 @@ const members = [
     abbr: "WIE",
     chapter: "Women in Engineering",
     position: "President",
-    icon: "⚡",
+    icon: "👩‍🦰",
     accent: "#ec4899",
     description:
       "Spearheaded the WIE workshop series, mentoring 200+ students across 6 events.",
@@ -27,7 +27,7 @@ const members = [
     abbr: "RAS",
     chapter: "Robotics & Automation",
     position: "President",
-    icon: "🤖",
+    icon: "🙎‍♂️",
     accent: "#f97316",
     description:
       "Coordinated RoboRumble 2025, attracting robotics teams from 12 colleges.",
@@ -38,7 +38,7 @@ const members = [
     abbr: "CIS",
     chapter: "Computational Intelligence",
     position: "Treasurer",
-    icon: "🧠",
+    icon: "👩‍🦰",
     accent: "#eab308",
     description:
       "Managed ₹2.5L budget and secured 3 industry sponsors for the annual symposium.",
@@ -49,7 +49,7 @@ const members = [
     abbr: "PES",
     chapter: "Power & Energy Society",
     position: "Treasurer",
-    icon: "🔋",
+    icon: "🙎‍♂️",
     accent: "#22c55e",
     description:
       "Organized Smart Grid Workshop with BESCOM and facilitated 3 industry visits.",
@@ -60,7 +60,7 @@ const members = [
     abbr: "SIGHT",
     chapter: "SIGHT Chapter",
     position: "Events Head",
-    icon: "🌍",
+    icon: "👩‍🦰",
     accent: "#14b8a6",
     description:
       "Executed 5 outreach programs under SIGHT, impacting 1000+ underprivileged students.",
@@ -71,7 +71,7 @@ const members = [
     abbr: "SPS",
     chapter: "Signal Processing Society",
     position: "Member",
-    icon: "📡",
+    icon: "🙎‍♂️",
     accent: "#a855f7",
     description:
       "Working on DSP projects and signal analysis workshops for the SPS chapter.",
@@ -82,7 +82,7 @@ const members = [
     abbr: "Web",
     chapter: "Web Resources",
     position: "President",
-    icon: "🧬",
+    icon: "👩‍🦰",
     accent: "#3b82f6",
     description:
       "Researching biomedical signal processing and contributing to EMBS outreach.",
