@@ -53,7 +53,7 @@ function Counter() {
     console.log("Count is now: " + count);
     const display = document.getElementById('display');
     if (display) {
-      display.innerText = count;
+      display.innerText = count;  // can also use .innerHTML tough here not necessary
     }
   }
   
