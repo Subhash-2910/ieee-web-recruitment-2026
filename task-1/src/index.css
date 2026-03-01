@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+}
+
+.page-bg {
+  background-color: #0b0b12;
+}
+
+.card {
+  background-color: #12121a;
+}
+
+.icon-box {
+  background-color: #1c1c2a;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% center;
+  }
+  100% {
+    background-position: -200% center;
+  }
+}
